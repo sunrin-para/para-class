@@ -1,6 +1,6 @@
 <div align="center">
   
-# para-class
+# "야, 파라는 동아리 시간에 뭐하냐?"
 <p align="center">
   <img src="https://count.getloli.com/get/@sunrin-para-para-class?theme=booru-lewd" alt="Visitor Count" />
 </p>
