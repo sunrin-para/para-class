@@ -2,7 +2,7 @@
   
 # "야, 파라는 동아리 시간에 뭐하냐?"
 <p align="center">
-  <img src="https://count.getloli.com/get/@sunrin-para-para-class?theme=booru-lewd" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@sunrin-para-para-class?theme=booru-lewd&darkmode=0" alt="Visitor Count" />
 </p>
 
 이 저장소는 선린인터넷고등학교 **인공지능 연구 및 개발 동아리, PARA**에서 진행한 수업/발표자료를 연도별로 정리하여 공유하는 공간입니다.<br/>
